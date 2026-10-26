@@ -5,12 +5,10 @@ Aplicación Android desarrollada para la **Evaluación Parcial 2 de DSY1105 – 
 > Todos los datos de la aplicación son **ficticios**. No se usan nombres, correos, teléfonos, RUT ni credenciales reales.
 
 ## Integrantes
-| Nombre | Rol en el proyecto |
-|---|---|
-| _Nombre Apellido 1_ | _completar_ |
-| _Nombre Apellido 2_ | _completar_ |
+| Natalie Gallegos Andulce | Configuración del proyecto, persistencia SQLite, validaciones, pantallas, recursos nativos e integración |
+| NOMBRE COMPAÑERA | Formulario base de registro de oportunidad con validaciones (Guía 11) y apoyo en pruebas |
 
-**Sección:** DSY1105-003D · **Equipo N°:** _completar_
+**Sección:** DSY1105-003D · **Equipo N°:** N°5 
 
 ## Problema que resuelve
 El equipo comercial de la agencia busca oportunidades manualmente en redes sociales y sitios web, y la información queda dispersa entre correos, mensajes y notas personales. Las oportunidades se detectan tarde y no se sabe qué fue contactado, qué propuesta se envió ni qué gestión está atrasada. La app centraliza el registro, la priorización y el seguimiento de cada oportunidad.
@@ -95,7 +93,7 @@ Para ejecutarlas: clic derecho en la carpeta `test` → **Run 'Tests in ...'**, 
 Kotlin · Jetpack Compose · Material 3 · Navigation Compose · ViewModel + StateFlow · SQLite (SQLiteOpenHelper) · AlarmManager + NotificationCompat · LocationManager + Geocoder · ActivityResult (cámara y permisos) · JUnit 4
 
 ## Planificación
-Tablero Trello: _pegar enlace_
+Tablero Trello: https://trello.com/b/wLAJs7FL/atenas-oportunidades-ep2-dsy1105
 
 ## Pendiente para la EFT
 Módulo de organizaciones y contactos como entidades propias, resultado de activación, perfiles con permisos distintos (supervisor/marketing), consumo de API REST con Retrofit y microservicios Spring Boot, y APK firmado en modo release.
