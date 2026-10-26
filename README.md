@@ -5,10 +5,12 @@ Aplicación Android desarrollada para la **Evaluación Parcial 2 de DSY1105 – 
 > Todos los datos de la aplicación son **ficticios**. No se usan nombres, correos, teléfonos, RUT ni credenciales reales.
 
 ## Integrantes
+| Nombre | Rol en el proyecto |
+|---|---|
 | Natalie Gallegos Andulce | Configuración del proyecto, persistencia SQLite, validaciones, pantallas, recursos nativos e integración |
-| NOMBRE COMPAÑERA | Formulario base de registro de oportunidad con validaciones (Guía 11) y apoyo en pruebas |
+| Pamela Cocq | Formulario base de registro de oportunidad con validaciones (Guía 11) y apoyo en pruebas |
 
-**Sección:** DSY1105-003D · **Equipo N°:** N°5 
+**Sección:** DSY1105-003D · **Equipo N°:** 5 
 
 ## Problema que resuelve
 El equipo comercial de la agencia busca oportunidades manualmente en redes sociales y sitios web, y la información queda dispersa entre correos, mensajes y notas personales. Las oportunidades se detectan tarde y no se sabe qué fue contactado, qué propuesta se envió ni qué gestión está atrasada. La app centraliza el registro, la priorización y el seguimiento de cada oportunidad.
