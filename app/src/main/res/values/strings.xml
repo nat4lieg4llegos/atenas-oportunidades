@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Atenas Oportunidades</string>
+    <string name="canal_recordatorios_nombre">Recordatorios de seguimiento</string>
+    <string name="canal_recordatorios_descripcion">Avisos internos sobre seguimientos y eventos próximos</string>
+</resources>
